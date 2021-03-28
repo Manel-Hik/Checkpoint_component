@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'IBM Plex Sans', sans-serif;
+    background-color: #cccccc;
+ 
+    
+}
+.contt{
+    padding: 50px;
+
+}
+.me{
+    height:200px;
+    border-radius: 50%; 
+    border: 5px solid red;
+   
+}
+.name{
+    font-size: larger;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 5px;
+    
+}
+.adress{
+    font-size: larger;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 5px;
+
+}
+.contact{
+    font-size: larger;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 5px;
+
+
+}
+.linkd{
+    font-size: larger;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 5px;
+    text-decoration: none;
+
+}
